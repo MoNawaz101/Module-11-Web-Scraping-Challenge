@@ -2,7 +2,7 @@
 
 ## Task  
 This assignment consists of two parts:  
-•	Part 1: Scrape titles and preview text from Mars news articles.
+•	Part 1: Scrape titles and preview text from Mars news articles.  
 •	Part 2: Scrape and analyze Mars weather data, which exists in a table.
 
 ## Files
@@ -16,5 +16,5 @@ This assignment consists of two parts:
 - JSON file which contains the scraped data output of the Mars news website from file [part_1_mars_news.ipynb](part_1_mars_news.ipynb)
 
 [Mars_Weather_Data.csv](Mars_Weather_Data.csv)
-- CSV file which contains the scraped data output of Mars weather website from file [part_2_mars_weather.ipynb](part_2_mars_weather.ipynb)
+- CSV file which contains the scraped data output of the Mars weather website from file [part_2_mars_weather.ipynb](part_2_mars_weather.ipynb)
 
